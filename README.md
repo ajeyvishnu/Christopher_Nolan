@@ -37,4 +37,4 @@ Contributions to enhance the dashboard or improve the dataset are welcome. Pleas
 
 ## Credits
 
-This dashboard project was created by [Ajay Vishnu Addala]. 
+This dashboard project was created by Ajay Vishnu Addala. 
